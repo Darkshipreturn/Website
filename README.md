@@ -18,7 +18,7 @@
 
 
 
-<p><a href="https://Darkshipretun.github.io/--Darkness--/">click here to go to site</a>
+<p><a href="https://darkshipreturn.github.io/">To go to the site click here!</a>
 <!--<button onclick="document.location='page2.html'">also click here</button>-->
 
 
