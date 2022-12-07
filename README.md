@@ -11,7 +11,7 @@
 <h1>Darkshipreturn.github.io</h1>
 
 
-<h2>This belonged to someone now its mine I guess?</h2>
+<h2>The website that I totally built by myself... Totally... Right?</h2>
 
 
 <hr>
