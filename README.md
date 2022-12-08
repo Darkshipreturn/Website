@@ -14,6 +14,8 @@
 <h2>The website that I totally built by myself... Totally... Right?</h2>
 
 
+<h3>All work done is attributed to @revnoplex and @sexnine go check thoese memes out!</h3>
+
 <hr>
 
 
